@@ -35,4 +35,4 @@ randomRhythm: Creates random rhythms.
 
 Contributing: Any contributions to this project are welcome.
 
-Acknowledgements: I'd like to thank Acreil for sharing his Pure Data patches.
+Acknowledgements: I'd like to thank Acreil for sharing his knowledge.
