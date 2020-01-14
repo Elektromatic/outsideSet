@@ -15,7 +15,7 @@ C  This patch also uses a "quantizer" modeled after Harmonaig Instruo eurorack
 C  module. https://www.modulargrid.net/e/instruo-harmonaig
 C  The Instruo module is a chord generating quantizer.
 C
-C  Please see https://youtu.be/IMkVKST_Wgg for an example of the use of this
+C  Please see https://youtu.be/xxx for an example of the use of this
 C  Pure Data patch.
 C
 C----------------------------------------------------------------------------
